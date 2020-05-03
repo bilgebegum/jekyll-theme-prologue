@@ -8,7 +8,7 @@ This is a trial to edit the document
 Another trial for sub page
 
 The changes
-<a href="https://github.com/chrisbobbe/jekyll-theme-prologue">GitHub!</a></p>
+<a href="https://drive.google.com/open?id=1yKrotN_FU8kyQGKK0_DzO6kWdcab-yn8">DRIVE LINK!</a></p>
 </header>
 
 
