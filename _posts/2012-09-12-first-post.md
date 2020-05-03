@@ -1,5 +1,5 @@
 ---
-title: WEEK 6 STUDIES- TRIAL OF EDITING
+title: Week 5 - Nand Trials
 author: bilgebegüm
 layout: post
 ---
@@ -8,6 +8,9 @@ This is a trial to edit the document
 Another trial for sub page
 
 The changes
+<a href="https://github.com/chrisbobbe/jekyll-theme-prologue">GitHub!</a></p>
+</header>
+
 
 Pro at integre alienum mediocritatem, mea ad libris adipisci necessitatibus, nostro constituam sit te. Recusabo oportere et mea, case minimum deleniti no quo, deseruisse conclusionemque vis te. Nam ex iudicabit constituam accommodare, dicam singulis ex eos! Eu mea viderer ceteros repudiandae, id erat voluptatum mea, ut consul omittam convenire quo. Id justo ipsum mei, modus contentiones per et! At mel omnium lucilius instructior, vel quando graeco in, eos docendi periculis eloquentiam ut.
 
