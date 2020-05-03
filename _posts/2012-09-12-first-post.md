@@ -11,6 +11,7 @@ The topics of this week were
 *NANDperceptron
 *NOTperceptron
 *Binary Classification
+*Homework
 
-During class studies can be reached from <a href="https://drive.google.com/open?id=1yKrotN_FU8kyQGKK0_DzO6kWdcab-yn8">HERE</a></p>
+During class studies can be reached from <a href="https://drive.google.com/open?id=1ynpk0GsI8CbuOkmJa51nrDeye-eTdvlp">WEEK 5</a></p>
 </header>
