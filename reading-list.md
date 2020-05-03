@@ -6,9 +6,9 @@ icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+The articles about the subject:
 
-1. Robert Burton: *The Anatomy of Melancholy*
+1. Immanuel Koh: *Architectural Sampling*
 2. Robert Musil: *The Man Without Qualities*
 3. Kazuo Ishiguro: *The Unconsoled*
 4. Malcolm Lowry: *Under the Volcano*
